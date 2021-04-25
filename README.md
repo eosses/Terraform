@@ -1,3 +1,3 @@
-# Terraform ESXi
+# Terraform
 
-Provisionando VMS no ESXi.
+Provisionando da Intancias e VMs.
